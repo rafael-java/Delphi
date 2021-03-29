@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{256C41EE-2FB1-4AB0-A644-4CCE61DBEA3F}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44284.8678703704" objectName="Aliases.calc.wndCalculadora.CalcFrame.page327702.btn4" objectLeft="58" objectTop="148" objectRight="92" objectBottom="175" clickPointX="68" clickPointY="156" imageFileName="tcvi1259510947040.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44284.8678819444" objectName="Aliases.calc.wndCalculadora.CalcFrame.page327702.btn" objectLeft="58" objectTop="244" objectRight="92" objectBottom="271" clickPointX="66" clickPointY="259" imageFileName="tcvi1259579647041.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44284.8678935185" objectName="Aliases.calc.wndCalculadora.CalcFrame.page327702.btn7" objectLeft="136" objectTop="180" objectRight="170" objectBottom="207" clickPointX="142" clickPointY="198" imageFileName="tcvi1259667147042.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="44284.8678935185" objectName="Aliases.calc.wndCalculadora.CalcFrame.page327702.btn" objectLeft="58" objectTop="244" objectRight="92" objectBottom="271" clickPointX="80" clickPointY="256" imageFileName="tcvi1259735947043.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="11" kind="0" dateTime="44284.8679050926" objectName="Aliases.calc.wndCalculadora.CalcFrame.page327702.btn3" objectLeft="175" objectTop="244" objectRight="209" objectBottom="303" clickPointX="179" clickPointY="278" imageFileName="tcvi1259809347044.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

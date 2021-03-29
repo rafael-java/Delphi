@@ -1,0 +1,15 @@
+﻿procedure Divisao;
+begin
+  //Clicks the 'btn4' button.
+  Aliases.calc.wndCalculadora.CalcFrame.page327702.btn4.ClickButton;
+  //Clicks the 'btn' button.
+  Aliases.calc.wndCalculadora.CalcFrame.page327702.btn.ClickButton;
+  //Clicks the 'btn7' button.
+  Aliases.calc.wndCalculadora.CalcFrame.page327702.btn7.ClickButton;
+  //Clicks the 'btn' button.
+  Aliases.calc.wndCalculadora.CalcFrame.page327702.btn.ClickButton;
+  //Clicks the 'btn3' button.
+  Aliases.calc.wndCalculadora.CalcFrame.page327702.btn3.ClickButton;
+  //Checks whether the 'WndCaption' property of the Aliases.calc.wndCalculadora.CalcFrame.page32770.Item3 object equals '1'.
+  aqObject.CheckProperty(Aliases.calc.wndCalculadora.CalcFrame.page32770.Item3, 'WndCaption', cmpEqual, '1', false);
+end;
